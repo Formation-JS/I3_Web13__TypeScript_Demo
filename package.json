@@ -1,0 +1,21 @@
+{
+  "name": "demo-typescript",
+  "version": "0.1.0",
+  "description": "Demo de l'utilisation de typescript pour I3",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "Interface3"
+  ],
+  "author": "Aurélien St",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  }
+}
